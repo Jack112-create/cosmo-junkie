@@ -3,3 +3,11 @@
   --primary: #ffc636;
   --secondary: #0a0b5b;
 }
+
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
